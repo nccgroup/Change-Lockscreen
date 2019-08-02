@@ -1,0 +1,10 @@
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\bin\Release\Change-Lockscreen.exe.config
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\bin\Release\Change-Lockscreen.exe
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\bin\Release\Change-Lockscreen.pdb
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\bin\Release\Windows.winmd
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\obj\Release\Change-Lockscreen.csproj.CoreCompileInputs.cache
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\obj\Release\Change-Lockscreen.csproj.CopyComplete
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\obj\Release\Change-Lockscreen.exe
+C:\Users\ssalucci299\source\repos\Change-Lockscreen\Change-Lockscreen\obj\Release\Change-Lockscreen.pdb

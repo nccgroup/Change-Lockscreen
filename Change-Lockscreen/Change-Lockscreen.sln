@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change-Lockscreen", "Change-Lockscreen\Change-Lockscreen.csproj", "{78642AB3-EAA6-4E9C-A934-E7B0638BC1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78642AB3-EAA6-4E9C-A934-E7B0638BC1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78642AB3-EAA6-4E9C-A934-E7B0638BC1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78642AB3-EAA6-4E9C-A934-E7B0638BC1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78642AB3-EAA6-4E9C-A934-E7B0638BC1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A95372-4B4F-4C75-BD6E-17C9680DDE8D}
+	EndGlobalSection
+EndGlobal
