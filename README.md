@@ -1,15 +1,15 @@
 # Change-Lockscreen
 
-Change-Lockscreen is a tool to trigger network authentications as SYSTEM by changing the Windows lock screen image from command line to perform privilege escalation attacks such as the following:
+Change-Lockscreen is a tool to trigger network authentications as SYSTEM by changing the Windows lock screen image from the command line to perform privilege escalation attacks such as the one described in the post linked below:
 *  (Link to Blog)
 
 # Features
 
-By default, Windows 10 has a feature called Windows Spotlight. It is in charge of downloading and displaying lock screen images automatically. 
-*	When this feature is enabled, Change-Lockscreen will disable it and establish the image specified in the arguments.
-*	Otherwise if the user has a custom lock screen image, Change-Lockscreen will be in charge to run a backup of it and establish it again.
+By default, Windows 10 has a feature called Windows Spotlight. It downloads and displays lock screen images automatically.
+*	When this feature is enabled, Change-Lockscreen will disable it and establish the image specified in the arguments
+*	Otherwise if the user has a custom lock screen image, Change-Lockscreen will be in charge to run a backup of it, trigger the network authentication, and establish it again
 
-N.B. While the Poweshell version of the tool works smoothly, the C# version sometimes fails restoring the original image.
+Note: while the PowerShell version of the tool works reliably, the C# version sometimes fails to restore the original image.
 
 # Usage 
 
