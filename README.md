@@ -20,7 +20,9 @@ Change-Lockscreen -Webdav \\[imageserver]@[port]\
 
 [![Watch the video](https://i.ytimg.com/vi/NsDQH1H89FQ/maxresdefault.jpg)](https://youtu.be/NsDQH1H89FQ)
 
-
+# Authors
+* Simone Salucci
+* Daniel López Jiménez
 
 # Acknowledgements
 
@@ -30,3 +32,4 @@ Change-Lockscreen -Webdav \\[imageserver]@[port]\
 * https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/
 * http://www.harmj0y.net/blog/activedirectory/a-case-study-in-wagging-the-dog-computer-takeover/
 * https://www.harmj0y.net/blog/redteaming/another-word-on-delegation/
+
