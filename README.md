@@ -1,7 +1,7 @@
 # Change-Lockscreen
 
 Change-Lockscreen is a tool to trigger network authentications as SYSTEM by changing the Windows lock screen image from the command line to perform privilege escalation attacks such as the one described in the post linked below:
-*  (Link to Blog)
+*  https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/august/kerberos-resource-based-constrained-delegation-when-an-image-change-leads-to-a-privilege-escalation/
 
 # Features
 
